@@ -8,9 +8,9 @@ const Footer = () => {
          <hr/>
         <p>Made by Mariam Parvez in 2021</p>
         <div>
-            <a href="https://github.com/mariamparvez" target="_blank"><FontAwesomeIcon  className="icons" icon={faGithub}/></a>
-            <a href="https://www.behance.net/mariamparvez" target="_blank"><FontAwesomeIcon  className="icons" icon={faBehance}/></a>
-            <a href="https://www.linkedin.com/in/zmariam/" target="_blank"><FontAwesomeIcon  className="icons" icon={faLinkedin }/></a>
+            <a href="https://github.com/mariamparvez" target="_blank" rel="noreferrer"><FontAwesomeIcon  className="icons" icon={faGithub}/></a>
+            <a href="https://www.behance.net/mariamparvez" target="_blank" rel="noreferrer"><FontAwesomeIcon  className="icons" icon={faBehance}/></a>
+            <a href="https://www.linkedin.com/in/zmariam/" target="_blank" rel="noreferrer"><FontAwesomeIcon  className="icons" icon={faLinkedin }/></a>
         </div>
         </>
      );
